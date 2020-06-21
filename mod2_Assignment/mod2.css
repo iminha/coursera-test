@@ -12,7 +12,10 @@ p{
 	margin: 10px;
 	margin-top: 15px;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8c6a2af4ad443461597610f8a2985d0909f29708
 .container {
 
 	margin-top: 10px;
@@ -32,6 +35,36 @@ section {
 	position: relative;
 	overflow: auto;
 
+<<<<<<< HEAD
+=======
+}
+
+.titlebox{
+	width: 30%;
+	border: 1px solid black;
+	font-weight: bold;
+	text-align: center;
+	position: relative;
+	float: right;
+	margin-left: 70%;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding: 5px;
+
+}
+#box1{
+background-color: #F1C40F ;
+}
+#box2{
+background-color: #E67E22 ;
+}
+#box3{
+background-color: #E74C3C ;
+}
+
+.row{
+	width: 100%;
+>>>>>>> 8c6a2af4ad443461597610f8a2985d0909f29708
 }
 
 .titlebox{
